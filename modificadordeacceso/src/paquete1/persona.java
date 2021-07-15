@@ -4,7 +4,7 @@ public class persona {
 	
 	String nombre = "";
 	
-	private int edad = 0;
+	int edad = 0;
 	
 	protected String domicilio = "";
 	
